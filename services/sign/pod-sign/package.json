@@ -63,7 +63,7 @@
     "@hcengineering/client-resources": "^0.6.27",
     "@hcengineering/server-client": "^0.6.0",
     "cors": "^2.8.5",
-    "dotenv": "~16.0.0",
+    "dotenv": "~16.4.7",
     "express": "^4.19.2",
     "@signpdf/signpdf": "^3.2.4",
     "@signpdf/placeholder-pdf-lib": "^3.2.4",
