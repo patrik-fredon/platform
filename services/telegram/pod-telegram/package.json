@@ -70,7 +70,7 @@
     "@hcengineering/server-token": "^0.6.11",
     "@hcengineering/mongo": "^0.6.1",
     "big-integer": "^1.6.51",
-    "dotenv": "~16.0.0",
+    "dotenv": "~16.4.7",
     "cors": "^2.8.5",
     "express": "^4.19.2",
     "htmlparser2": "^9.0.0",
