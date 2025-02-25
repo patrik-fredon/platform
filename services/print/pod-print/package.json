@@ -60,7 +60,7 @@
     "@hcengineering/core": "^0.6.32",
     "@hcengineering/platform": "^0.6.11",
     "cors": "^2.8.5",
-    "dotenv": "~16.0.0",
+    "dotenv": "~16.4.7",
     "express": "^4.19.2",
     "puppeteer": "^22.6.1",
     "mammoth": "^1.6.0",
