@@ -75,7 +75,7 @@
     "@hcengineering/text": "^0.6.5",
     "@telegraf/entity": "^0.5.0",
     "cors": "^2.8.5",
-    "dotenv": "~16.0.0",
+    "dotenv": "~16.5.0",
     "express": "^4.21.2",
     "htmlparser2": "^9.0.0",
     "mongodb": "^6.12.0",
