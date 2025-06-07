@@ -26,7 +26,8 @@ jobs:
             ${{ runner.os }}-build-node-${{ hashFiles('**/pnpm-lock.yaml') }}
       - name: Checking for mis-matching dependencies...
         run: node common/scripts/install-run-rush.js check
-
+      - name: Fix dependencies (if mismatched)
+        run: node common/scripts/install-run-rush.js update
       - name: Installing...
         run: node common/scripts/install-run-rush.js install
 
