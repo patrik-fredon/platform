@@ -62,7 +62,7 @@
     "@hcengineering/server-token": "^0.6.11",
     "@aws-sdk/client-ses": "^3.738.0",
     "cors": "^2.8.5",
-    "dotenv": "~16.0.0",
+    "dotenv": "~16.6.1",
     "express": "^4.21.2",
     "web-push": "^3.6.7"
   }
