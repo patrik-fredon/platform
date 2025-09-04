@@ -57,7 +57,7 @@
     "@hcengineering/client": "^0.6.18",
     "@hcengineering/client-resources": "^0.6.27",
     "@hcengineering/core": "^0.6.32",
-    "dotenv": "~16.0.0",
+    "dotenv": "~16.4.7",
     "@hcengineering/backup-service": "^0.6.0",
     "@hcengineering/analytics": "^0.6.0",
     "@hcengineering/analytics-service": "^0.6.0",
