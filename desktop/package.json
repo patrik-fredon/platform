@@ -222,7 +222,7 @@
     "@hcengineering/mail-assets": "^0.6.0",
     "@hcengineering/mail-resources": "^0.6.0",
     "electron-squirrel-startup": "~1.0.0",
-    "dotenv": "~16.0.0",
+    "dotenv": "~16.5.0",
     "electron-context-menu": "^4.0.4",
     "electron-windows-badge": "^1.1.0",
     "svelte": "^4.2.19",
