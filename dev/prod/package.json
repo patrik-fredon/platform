@@ -216,6 +216,6 @@
     "@hcengineering/mail-assets": "^0.6.0",
     "@hcengineering/mail-resources": "^0.6.0",
     "@sentry/svelte": "^8.52.1",
-    "posthog-js": "~1.257.0"
+    "posthog-js": "~1.261.0"
   }
 }
