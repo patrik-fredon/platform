@@ -65,7 +65,7 @@
     "prosemirror-codemark": "^0.4.2",
     "markdown-it": "^14.0.0",
     "fast-equals": "^5.2.2",
-    "@tiptap/extension-text-align": "~2.11.0",
+    "@tiptap/extension-text-align": "~2.27.1",
     "@tiptap/extension-text-style": "~2.11.0"
   },
   "repository": "https://github.com/hcengineering/platform",
